@@ -1,6 +1,6 @@
 {
   "sources": [
-    { "url": "https://epg.pw/xmltv/epg_ID.xml", "name": "ATV" }
+    { "url": "https://www.open-epg.com/files/indonesia1.xml", "name": "ATV" }
   ],
   "output": "./epgtvku.xml"
 }
