@@ -1,6 +1,6 @@
 {
   "sources": [
-    { "url": "https://opop.pro/DnXWS2ptC6Knm3", "name": "ATV" }
+    { "url": "https://epg.pw/xmltv/epg_ID.xml", "name": "ATV" }
   ],
   "output": "./epgtvku.xml"
 }
